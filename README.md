@@ -47,7 +47,7 @@ $ npm install @salte-auth/discord
 
 ```js
 import { SalteAuth } from '@salte-auth/salte-auth';
-import { discord } from '@salte-auth/discord';
+import { Discord } from '@salte-auth/discord';
 import { Redirect } from '@salte-auth/redirect';
 
 /* 

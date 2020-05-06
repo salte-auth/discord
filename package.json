@@ -1,6 +1,7 @@
 {
   "name": "@salte-auth/discord",
   "version": "3.0.0",
+  "browser": "dist/discord.min.js",
   "main": "dist/discord.min.js",
   "module": "dist/discord.min.mjs",
   "types": "dist/discord.d.ts",
